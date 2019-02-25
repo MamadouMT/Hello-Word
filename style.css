@@ -1,4 +1,18 @@
-body {
-    
-    background-color: purple;
-}
+body 
+{background-color: purple;}
+
+ .navbar {text-transform:capitalize;}
+
+
+.my-font {font-family: "Times New Roman";}
+ 
+ .nav-item {background-color: yellow}
+ 
+ .nav-item:hover {background-color:purple }
+ 
+ header { 
+     background-image: url("img.jpg");
+     height: 600px;
+     width:100%;
+ }
+ 
