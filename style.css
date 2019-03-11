@@ -1,18 +1,64 @@
-body 
-{background-color: purple;}
+  body {
+   background-color: purple;
 
- .navbar {text-transform:capitalize;}
+  }
+ p{
+   color:white ;
+  }
+  .navbar {
+   text-transform: capitalize;
+  }
 
 
-.my-font {font-family: "Times New Roman";}
- 
- .nav-item {background-color: yellow}
- 
- .nav-item:hover {background-color:purple }
- 
- header { 
-     background-image: url("img.jpg");
-     height: 600px;
-     width:100%;
+  .my-font {
+   font-family: "Times New Roman";
+  }
+
+  .nav-item {
+   background-color: yellow
+  }
+
+  .nav-item:hover {
+   background-color: purple
+  }
+
+  header {
+   background-image: url("img.jpg");
+   height: 600px;
+   width: 100%;
+  }
+
+  .services {
+   text-align: center;
+  }
+
+  .services i {
+   font-size: 30px;
+
+   padding: 25px 20px;
+
+   color: #9400D3;
+   background-color: #FFFF33;
+
+   width: 80px;
+   height: 80px;
+
+   border-radius: 50%;
+  }
+  .services span{
+   width: 200px;
+   display: inline-block;
+  }
+ section div img{
+ border-radius:75%;
+ width: 100px;
+ height: 100px;
  }
+ 
+ .contact button {
+  width:100%
+ }
+  contact button:hover {
+   background-color: purple
+  }
  
